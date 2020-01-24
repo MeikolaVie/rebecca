@@ -1,0 +1,30 @@
+.a-mainTitle {
+  font-family: "Sogoe UI hisotic", sans-serif;
+  font-size: 33px;
+}
+
+.a-nomArtiste {
+  font-size: 24px;
+  font-family: "Sogoe UI hisotic", sans-serif;
+  color: #e5e5e5;
+  background: #333333;
+  display: inline-block;
+  padding: 5px 20px 5px 5px;
+}
+
+.a-paysArtiste {
+  font-size: 16px;
+  font-family: "Sogoe UI hisotic", sans-serif;
+  color: #e5e5e5;
+  background: #333333;
+  display: inline-block;
+  position: relative;
+  padding: 5px 20px 5px 5px;
+}
+
+.a-boutonStation {
+  font-family: "Sogoe UI hisotic", sans-serif;
+  font-size: 16px;
+  background: none;
+  border-radius: 5px;
+}
